@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="My new app" />
+  <HelloWorld msg="L'heure de la pause !" />
 </template>
 
 <script>
